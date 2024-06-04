@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medpro", "Medpro\Medpro.csproj", "{6AF2ECAA-D856-4ED6-9E61-F85CC545A2EA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Medpro - Dat Kham Online", "Medpro - Dat Kham Online\Medpro - Dat Kham Online.vdproj", "{8CAD6292-1CA5-4F14-AA7A-A4DD32BE837F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AF2ECAA-D856-4ED6-9E61-F85CC545A2EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF2ECAA-D856-4ED6-9E61-F85CC545A2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF2ECAA-D856-4ED6-9E61-F85CC545A2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF2ECAA-D856-4ED6-9E61-F85CC545A2EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CAD6292-1CA5-4F14-AA7A-A4DD32BE837F}.Debug|Any CPU.ActiveCfg = Debug
+		{8CAD6292-1CA5-4F14-AA7A-A4DD32BE837F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F55F129E-3FA7-489A-ADD9-BFD99579D152}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,675 @@
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Login.exe
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Guna.UI2.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\System.Memory.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\System.Text.Json.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Login.exe.config
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Dashboard.v21.2.Core.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.DataAccess.v21.2.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Newtonsoft.Json.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\System.Buffers.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\System.ValueTuple.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Map.v21.2.Core.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.XtraReports.v21.2.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.XtraTreeMap.v21.2.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Xpo.v21.2.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.TreeMap.v21.2.Core.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Dashboard.v21.2.Core.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.DataAccess.v21.2.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Newtonsoft.Json.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\System.Buffers.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\System.Memory.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\System.Text.Json.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\System.ValueTuple.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Map.v21.2.Core.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.XtraReports.v21.2.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.XtraTreeMap.v21.2.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Xpo.v21.2.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.TreeMap.v21.2.Core.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\de\DevExpress.Dashboard.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\es\DevExpress.Dashboard.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ja\DevExpress.Dashboard.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ru\DevExpress.Dashboard.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\de\DevExpress.Map.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\es\DevExpress.Map.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ja\DevExpress.Map.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ru\DevExpress.Map.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.Auth.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.Loadding.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.Admin.Add_BenhVien.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.Admins.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.Admin.Danh_Sach_Benh_Vien.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.Info_Admin.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.Update_Admin.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.BacSi.BacSi.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.BenhVien.Add_Bac_Si.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.BenhVien.Chon_Chuyen_Khoa.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.BenhVien.BenhVien.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.BenhVien.Danh_Sach_Chuyen_Khoa.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.BenhVien.Info_BenhVien.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.BenhVien.Them_ChuyenKhoa.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.BenhVien.Update_BenhVien.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.User.Info_User.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.User.Update_User.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.Users.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.exe.licenses
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.exe
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.pdb
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Login.pdb
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.BacSi.Infor_BacSi.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.BacSi.Update_BacSi.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.BacSi.ThemLichKham.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.BacSi.XacNhanKham.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.BacSi.LichSuKham.resources
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\itext.commons.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\itext.commons.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\EPPlus.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\EPPlus.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.User.DatKhamTheoBenhVien.resources
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.User.BenhAn.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.User.ThongTinBenhAn.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.BenhVien.DanhsachBacSi.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.BenhVien.AllBenhAn.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.BenhVien.LichHuy.resources
+C:\Users\quoct\source\repos\Login\Login\obj\Debug\Login.UX_UI.Admin.AllUser.resources
+D:\Login\Login\bin\Debug\Login.exe.config
+D:\Login\Login\bin\Debug\Login.exe
+D:\Login\Login\bin\Debug\Login.pdb
+D:\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+D:\Login\Login\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+D:\Login\Login\bin\Debug\DevExpress.Dashboard.v21.2.Core.dll
+D:\Login\Login\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\Login\Login\bin\Debug\DevExpress.Data.v21.2.dll
+D:\Login\Login\bin\Debug\DevExpress.DataAccess.v21.2.dll
+D:\Login\Login\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\Login\Login\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\Login\Login\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\Login\Login\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\Login\Login\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\Login\Login\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\Login\Login\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\Login\Login\bin\Debug\EPPlus.dll
+D:\Login\Login\bin\Debug\EPPlus.Interfaces.dll
+D:\Login\Login\bin\Debug\EPPlus.System.Drawing.dll
+D:\Login\Login\bin\Debug\FontAwesome.Sharp.dll
+D:\Login\Login\bin\Debug\Guna.UI2.dll
+D:\Login\Login\bin\Debug\itext.commons.dll
+D:\Login\Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Login\Login\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Login\Login\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Login\Login\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Login\Login\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Login\Login\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Login\Login\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Login\Login\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Login\Login\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Login\Login\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Login\Login\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Login\Login\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Login\Login\bin\Debug\Newtonsoft.Json.dll
+D:\Login\Login\bin\Debug\System.Buffers.dll
+D:\Login\Login\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Login\Login\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Login\Login\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Login\Login\bin\Debug\System.Memory.dll
+D:\Login\Login\bin\Debug\System.Numerics.Vectors.dll
+D:\Login\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Login\Login\bin\Debug\System.Text.Encodings.Web.dll
+D:\Login\Login\bin\Debug\System.Text.Json.dll
+D:\Login\Login\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Login\Login\bin\Debug\System.ValueTuple.dll
+D:\Login\Login\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+D:\Login\Login\bin\Debug\DevExpress.Map.v21.2.Core.dll
+D:\Login\Login\bin\Debug\DevExpress.XtraReports.v21.2.dll
+D:\Login\Login\bin\Debug\DevExpress.XtraTreeMap.v21.2.dll
+D:\Login\Login\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+D:\Login\Login\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+D:\Login\Login\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+D:\Login\Login\bin\Debug\DevExpress.Xpo.v21.2.dll
+D:\Login\Login\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+D:\Login\Login\bin\Debug\DevExpress.TreeMap.v21.2.Core.dll
+D:\Login\Login\bin\Debug\DevExpress.Office.v21.2.Core.dll
+D:\Login\Login\bin\Debug\DevExpress.CodeParser.v21.2.dll
+D:\Login\Login\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\Login\Login\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\Login\Login\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+D:\Login\Login\bin\Debug\BouncyCastle.Crypto.xml
+D:\Login\Login\bin\Debug\DevExpress.Dashboard.v21.2.Core.xml
+D:\Login\Login\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\Login\Login\bin\Debug\DevExpress.Data.v21.2.xml
+D:\Login\Login\bin\Debug\DevExpress.DataAccess.v21.2.xml
+D:\Login\Login\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\Login\Login\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\Login\Login\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\Login\Login\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\Login\Login\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\Login\Login\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\Login\Login\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\Login\Login\bin\Debug\EPPlus.xml
+D:\Login\Login\bin\Debug\itext.commons.xml
+D:\Login\Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Login\Login\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Login\Login\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Login\Login\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Login\Login\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Login\Login\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Login\Login\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Login\Login\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Login\Login\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Login\Login\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Login\Login\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Login\Login\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Login\Login\bin\Debug\Newtonsoft.Json.xml
+D:\Login\Login\bin\Debug\System.Buffers.xml
+D:\Login\Login\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Login\Login\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Login\Login\bin\Debug\System.Memory.xml
+D:\Login\Login\bin\Debug\System.Numerics.Vectors.xml
+D:\Login\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Login\Login\bin\Debug\System.Text.Encodings.Web.xml
+D:\Login\Login\bin\Debug\System.Text.Json.xml
+D:\Login\Login\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Login\Login\bin\Debug\System.ValueTuple.xml
+D:\Login\Login\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+D:\Login\Login\bin\Debug\DevExpress.Map.v21.2.Core.xml
+D:\Login\Login\bin\Debug\DevExpress.XtraReports.v21.2.xml
+D:\Login\Login\bin\Debug\DevExpress.XtraTreeMap.v21.2.xml
+D:\Login\Login\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\Login\Login\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+D:\Login\Login\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+D:\Login\Login\bin\Debug\DevExpress.Xpo.v21.2.xml
+D:\Login\Login\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+D:\Login\Login\bin\Debug\DevExpress.TreeMap.v21.2.Core.xml
+D:\Login\Login\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\Login\Login\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\Login\Login\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\Login\Login\bin\Debug\de\DevExpress.Dashboard.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\es\DevExpress.Dashboard.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\ja\DevExpress.Dashboard.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\ru\DevExpress.Dashboard.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\Login\Login\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\Login\Login\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\Login\Login\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\Login\Login\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+D:\Login\Login\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+D:\Login\Login\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+D:\Login\Login\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+D:\Login\Login\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\Login\Login\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\Login\Login\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\Login\Login\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\Login\Login\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\Login\Login\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\Login\Login\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\Login\Login\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\Login\Login\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Login\Login\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Login\Login\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Login\Login\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Login\Login\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Login\Login\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Login\Login\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Login\Login\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Login\Login\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Login\Login\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Login\Login\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Login\Login\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Login\Login\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\de\DevExpress.Map.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\es\DevExpress.Map.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\ja\DevExpress.Map.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\ru\DevExpress.Map.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+D:\Login\Login\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+D:\Login\Login\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+D:\Login\Login\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+D:\Login\Login\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+D:\Login\Login\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+D:\Login\Login\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+D:\Login\Login\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+D:\Login\Login\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+D:\Login\Login\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+D:\Login\Login\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+D:\Login\Login\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+D:\Login\Login\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Login\Login\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\Login\Login\obj\Debug\Login.Auth.resources
+D:\Login\Login\obj\Debug\Login.Loadding.resources
+D:\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.Admin.Add_BenhVien.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.Admins.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.Admin.AllUser.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.Admin.Danh_Sach_Benh_Vien.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.Info_Admin.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.Update_Admin.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.BacSi.BacSi.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.BacSi.Infor_BacSi.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.BacSi.LichSuKham.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.BacSi.ThemLichKham.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.BacSi.Update_BacSi.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.BacSi.XacNhanKham.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.BenhVien.Add_Bac_Si.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.BenhVien.AllBenhAn.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.BenhVien.Chon_Chuyen_Khoa.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.BenhVien.BenhVien.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.BenhVien.DanhsachBacSi.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.BenhVien.Danh_Sach_Chuyen_Khoa.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.BenhVien.Info_BenhVien.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.BenhVien.LichHuy.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.BenhVien.Them_ChuyenKhoa.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.BenhVien.Update_BenhVien.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.User.BenhAn.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.User.DatKhamTheoBenhVien.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.User.Info_User.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.User.ThongTinBenhAn.resources
+D:\Login\Login\obj\Debug\Login.UX_UI.User.Update_User.resources
+D:\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Login\Login\obj\Debug\Login.exe.licenses
+D:\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Login\Login\obj\Debug\Login.csproj.CopyComplete
+D:\Login\Login\obj\Debug\Login.exe
+D:\Login\Login\obj\Debug\Login.pdb
+D:\Login\Login\obj\Debug\Login.UX_UI.FormUser.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Login.exe.config
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Login.exe
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Login.pdb
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Dashboard.v21.2.Core.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Data.v21.2.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.DataAccess.v21.2.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\EPPlus.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\EPPlus.Interfaces.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\EPPlus.System.Drawing.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\FontAwesome.Sharp.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Guna.UI2.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\itext.commons.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.Extensions.Options.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Newtonsoft.Json.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\System.Buffers.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\System.ComponentModel.Annotations.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\System.Memory.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\System.Numerics.Vectors.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\System.Text.Encodings.Web.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\System.Text.Json.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\System.ValueTuple.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Map.v21.2.Core.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.XtraReports.v21.2.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.XtraTreeMap.v21.2.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Xpo.v21.2.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.TreeMap.v21.2.Core.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Office.v21.2.Core.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.CodeParser.v21.2.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\BouncyCastle.Crypto.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Dashboard.v21.2.Core.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Data.v21.2.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.DataAccess.v21.2.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\EPPlus.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\itext.commons.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.Extensions.Options.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\Newtonsoft.Json.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\System.Buffers.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\System.Memory.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\System.Numerics.Vectors.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\System.Text.Encodings.Web.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\System.Text.Json.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\System.ValueTuple.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Map.v21.2.Core.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.XtraReports.v21.2.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.XtraTreeMap.v21.2.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Xpo.v21.2.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.TreeMap.v21.2.Core.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\de\DevExpress.Dashboard.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\es\DevExpress.Dashboard.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ja\DevExpress.Dashboard.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ru\DevExpress.Dashboard.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\de\DevExpress.Map.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\es\DevExpress.Map.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ja\DevExpress.Map.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ru\DevExpress.Map.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.Auth.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.Loadding.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.Admin.Add_BenhVien.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.Admins.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.Admin.AllUser.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.Admin.Danh_Sach_Benh_Vien.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.Info_Admin.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.Update_Admin.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.BacSi.BacSi.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.BacSi.Infor_BacSi.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.BacSi.LichSuKham.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.BacSi.ThemLichKham.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.BacSi.Update_BacSi.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.BacSi.XacNhanKham.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.BenhVien.Add_Bac_Si.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.BenhVien.AllBenhAn.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.BenhVien.Chon_Chuyen_Khoa.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.BenhVien.BenhVien.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.BenhVien.DanhsachBacSi.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.BenhVien.Danh_Sach_Chuyen_Khoa.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.BenhVien.Info_BenhVien.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.BenhVien.LichHuy.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.BenhVien.Them_ChuyenKhoa.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.BenhVien.Update_BenhVien.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.User.BenhAn.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.User.DatKhamTheoBenhVien.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.User.Info_User.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.User.ThongTinBenhAn.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.User.Update_User.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.UX_UI.FormUser.resources
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.exe.licenses
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.csproj.CopyComplete
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.exe
+D:\EPU\Nam 3\Kỳ I\Do_an\Login\Login\obj\Debug\Login.pdb
